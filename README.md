@@ -13,7 +13,7 @@ Some of my most favorite personal projcts are included here. Some of them came a
 * <b>Frameworks</b>:	Spring, React, Node, Django	
 * <b>Database</b>: 	PostgreSQL, Redis	
 * <b>DevOps</b>:     AWS, Nginx, Kubernetes
-* <b>Software</b>:   Git, Jenkins, Docker
+* <b>Software</b>:   Git, Jenkins, Docker, Vite
 * <b>Testing</b>:      Junit, React Testing Library	
 
 
